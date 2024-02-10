@@ -23,3 +23,33 @@ I can't stand Android!!!
 - 编程语言：Java、Python、C++、R、SQL
 - 开发框架：Spring、Flask
 - 数据库：MySQL、Oracle
+
+
+----------------------------ENGLISH-----------------------
+## Introduction
+
+👋 Hi, I'm @yangxir, a passionate developer who loves exploring new technologies and ideas in my projects to enhance my programming skills and knowledge. In my free time, I enjoy reading books and traveling.
+
+👀 I have a strong interest in Python programming and I'm also proficient in C++, Java, and SQL. Additionally, I have a keen interest in artificial intelligence, data science, and cloud computing. I've worked on a small project related to image recognition.
+
+I can't stand Android!!!
+
+🌱 Currently, I am seeking opportunities to learn and grow, collaborating with other developers. I believe that through collaboration and exchange, we can explore new technological domains and achieve more innovation.
+
+💞️ I am eager to collaborate with other developers in the AI+X field for more innovative projects. If you are interested in my skills and projects, feel free to reach out. I look forward to working with you!
+
+📫 If you want to contact me, you can reach me via my email at 935488599@qq.com, 2354573528@qq.com, or yangxirui9@gmail.com.
+
+## Projects
+
+Here is a project I've been involved in:
+
+- [Flask Communication](https://github.com/yangxir/flask-communication): This is a communication application written using the Flask framework, designed for my final project. Click for more details.
+
+## Skills
+
+Here is a list of technologies and tools I am familiar with:
+
+- Programming Languages: Java, Python, C++, R, SQL
+- Development Frameworks: Spring, Flask
+- Databases: MySQL, Oracle
