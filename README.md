@@ -10,7 +10,7 @@ I can't stand Android!!!
 
 💞️ 我非常愿意和其他开发者一起合作，在AI+X领域实现更多的创新。如果你对我的技能和项目感兴趣，欢迎与我联系。我非常期待与你的合作！
 
-📫 如果你想联系我，可以通过我的邮箱935488599@qq.com或2354573528@qq.com或yangxirui9@gmail.com。
+📫 如果你想联系我，可以通过我的邮箱yangxirui9@gmail.com。
 ## Projects
 
 以下是我参与过的一个项目：
@@ -38,7 +38,7 @@ I can't stand Android!!!
 
 💞️ I am eager to collaborate with other developers in the AI+X field for more innovative projects. If you are interested in my skills and projects, feel free to reach out. I look forward to working with you!
 
-📫 If you want to contact me, you can reach me via my email at 935488599@qq.com, 2354573528@qq.com, or yangxirui9@gmail.com.
+📫 If you want to contact me, you can reach me via my email at yangxirui9@gmail.com.
 
 ## Projects
 
@@ -66,7 +66,7 @@ Androidは我慢できません!!!
 
 💞️ AI+X分野で他の開発者と協力し、より多くの革新的なプロジェクトを実現したいと考えています。私のスキルやプロジェクトに興味があれば、お気軽にご連絡ください。一緒に仕事ができることを楽しみにしています！
 
-📫 私に連絡したい場合は、935488599@qq.com、2354573528@qq.com、またはyangxirui9@gmail.comまでメールでお問い合わせください。
+📫 私に連絡したい場合は、yangxirui9@gmail.comまでメールでお問い合わせください。
 
 ## プロジェクト
 
