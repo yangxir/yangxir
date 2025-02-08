@@ -35,8 +35,8 @@ More projects coming soon... 🚀
 
 📌 **Tech Stack**
 ---
-🖥️ **Programming Languages**: Python, C++, Java, SQL  
-⚙️ **Frameworks**: Flask, Spring  
+🖥️ **Programming Languages**: Python, C++,C , Java, SQL  
+⚙️ **Frameworks**: Flask 
 🗄️ **Databases**: MySQL, Oracle  
 
 ---
