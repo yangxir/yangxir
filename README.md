@@ -17,7 +17,7 @@ Hi, I'm **@yangxir**, a passionate developer and researcher in **wireless networ
 
 🔬 **Current Research & Projects**
 ---
-I'm currently working on **cross-border WiFi authentication optimization** using **EAP-TLS and decentralized identity management (DID)**. If you're interested in secure authentication protocols, let's connect! 
+I'm currently working on **cross-border WiFi authentication optimization** using **EAP-TLS**. If you're interested in secure authentication protocols, let's connect! 
 
 ### Featured Projects:
 
