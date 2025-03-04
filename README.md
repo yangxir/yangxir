@@ -25,9 +25,9 @@ I'm currently working on **cross-border WiFi authentication optimization** using
 - A Flask-based communication application developed for my thesis project.
 - Implements secure communication with user authentication and session management.
 
-📌 **[EAP-TLS RADIUS Setup Guide](https://yangxir.github.io/RADIUS-EAPTLS-EXP/)**
-- A complete guide on setting up **RADIUS authentication with EAP-TLS**.
-- Covers **server configuration, certificate management, and debugging tools**.
+📌 **[Wireless Network & EAP-TLS Research](https://yangxir.github.io/)**
+- My personal blog where I share insights on **WiFi authentication, RADIUS, EAP-TLS, and more**.
+- Covers **server configuration, certificate management, security optimization, and debugging tools**.
 
 More projects coming soon... 🚀
 
@@ -46,4 +46,3 @@ More projects coming soon... 🚀
 💡 I'm always open to discussions on **wireless network security**, and **backend development**. If you're working on something exciting, hit me up!  
 
 📫 **Email**: yangxirui9@gmail.com
-
