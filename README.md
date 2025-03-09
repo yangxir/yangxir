@@ -53,7 +53,7 @@ I specialize in **wireless network authentication and security**, working on **R
 
 
 ### 📝 [YXR's Tech Blog](https://yangxir.github.io/)
-![Latest Post](https://img.shields.io/badge/Latest_Post-WiFi6E_Authentication-blueviolet)  
+
 A personal space where I document my **thoughts, life experiences, and technical explorations** *(in Chinese)*.
 
 
