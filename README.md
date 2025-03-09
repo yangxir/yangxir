@@ -48,7 +48,7 @@ I specialize in **wireless network authentication and security**, working on **R
 
 ### 💬 [Flask Communication System](https://github.com/yangxir/flask-communication)
 ![GitHub Stars](https://img.shields.io/github/stars/yangxir/flask-communication?style=social)  
-A **Flask-based secure communication system** featuring authentication and real-time session management.
+
 
 
 
