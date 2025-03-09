@@ -1,23 +1,24 @@
-
-```markdown
 # 🚀 **Hey, I'm Yangxir!** 👋  
-<img align="right" src="https://komarev.com/ghpvc/?username=yangxir&label=Profile+Views&color=0e75b6">
 
-## 🌐 **Wireless Network Enthusiast | Security Researcher | Developer**  
+![Profile Views](https://komarev.com/ghpvc/?username=yangxir&label=Profile+Views&color=0e75b6)  
 ![Security](https://img.shields.io/badge/Specialization-Network_Security-228B22)
 ![EAP-TLS](https://img.shields.io/badge/Certified-EAP--TLS_Expert-4B0082)
 
-**I build secure bridges between networks and users**  
-`RADIUS` `FreeRADIUS` `WPA2/3-Enterprise` `X.509` `PKI`
+---
+
+## 🌐 **Wireless Network Enthusiast | Security Researcher | Developer**  
+
+I specialize in **wireless network authentication and security**, working on **RADIUS**, **EAP-TLS**, and **cross-border authentication systems**.  
+
+💡 **I build secure bridges between networks and users.**  
+`RADIUS` `FreeRADIUS` `WPA2/3-Enterprise` `X.509` `PKI`  
 
 ---
 
-### 🔥 **Core Expertise**
-<p align="center">
-  <img src="https://img.shields.io/badge/-RADIUS_Protocol-009688?logo=cisco" hspace="5">
-  <img src="https://img.shields.io/badge/-EAP--TLS_Optimization-8A2BE2?logo=wireshark" hspace="5">
-  <img src="https://img.shields.io/badge/-Cross_Border_WiFi-FF6F00?logo=wifi" hspace="5">
-</p>
+## 🔥 **Core Expertise**
+![RADIUS Protocol](https://img.shields.io/badge/-RADIUS_Protocol-009688?logo=cisco)
+![EAP-TLS Optimization](https://img.shields.io/badge/-EAP--TLS_Optimization-8A2BE2?logo=wireshark)
+![Cross Border WiFi](https://img.shields.io/badge/-Cross_Border_WiFi-FF6F00?logo=wifi)
 
 ```python
 # Current Focus
@@ -52,37 +53,24 @@ def optimize_authentication():
 ## 🚀 **Project Showcase**
 
 ### 💬 [Flask Communication System](https://github.com/yangxir/flask-communication)
-![GitHub Stars](https://img.shields.io/github/stars/yangxir/flask-communication?style=flat)
-```diff
-+ Real-time session management
-+ TLS 1.3 encryption
-+ JWT-based authentication
-```
+![GitHub Stars](https://img.shields.io/github/stars/yangxir/flask-communication?style=social)  
+
+
+---
 
 ### 📝 [YXR's Tech Blog](https://yangxir.github.io/)
-![Latest Post](https://img.shields.io/badge/Latest_Post-WiFi6E_Authentication-blueviolet)
-```diff
-+ RADIUS协议深度解析
-+ EAP-TLS调试指南
-+ 证书生命周期管理
-```
+![Latest Post](https://img.shields.io/badge/Latest_Post-WiFi6E_Authentication-blueviolet)  
+A personal space where I document my **thoughts, life experiences, and technical explorations** *(in Chinese)*.
 
 ---
 
 ## 📬 **Collaboration Channel**
-<p align="center">
-  <a href="mailto:yangxirui9@gmail.com">
-    <img src="https://img.shields.io/badge/-Email_Me-D14836?logo=gmail&logoColor=white" hspace="10">
-  </a>
-  <a href="https://yangxir.github.io/">
-    <img src="https://img.shields.io/badge/-Visit_Blog-FF7139?logo=hexo" hspace="10">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white)](mailto:yangxirui9@gmail.com)  
+[![Visit Blog](https://img.shields.io/badge/Visit_Blog-YXR's_Tech_Blog-FF7139?logo=hexo)](https://yangxir.github.io/)
 
 ```diff
 - Not an Android Fan! ❌🤖
 + Let's build secure networks! 🔐🌍
 ```
 
-<sub>🚀 Pushing the boundaries of wireless authentication since 2023</sub>
-```
+<sub>🚀 Pushing the boundaries of wireless authentication since 2025</sub>
