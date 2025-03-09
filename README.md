@@ -25,7 +25,7 @@ I'm currently working on **cross-border WiFi authentication optimization** using
 - A Flask-based communication application developed for my thesis project.
 - Implements secure communication with user authentication and session management.
 
-📌 **[Wireless Network & EAP-TLS Research](https://yangxir.github.io/)**
+📌 **[YXR's Blog](https://yangxir.github.io/)**
 - My personal blog where I share insights on **WiFi authentication, RADIUS, EAP-TLS, and more**.
 - Covers **server configuration, certificate management, security optimization, and debugging tools**.
 
