@@ -20,13 +20,6 @@ I specialize in **wireless network authentication and security**, working on **R
 ![EAP-TLS Optimization](https://img.shields.io/badge/-EAP--TLS_Optimization-8A2BE2?logo=wireshark)
 ![Cross Border WiFi](https://img.shields.io/badge/-Cross_Border_WiFi-FF6F00?logo=wifi)
 
-```python
-# Current Focus
-def optimize_authentication():
-    implement("EAP-TLS handshake acceleration")
-    research("Multi-layer caching strategies")
-    publish("Cross-border authentication framework")
-```
 
 ---
 
