@@ -1,48 +1,88 @@
-# Hi, I'm Yangxir! 👋
 
-🚀 **About Me**
----
-Hi, I'm **@yangxir**, a passionate developer and researcher in **wireless network authentication**. I enjoy building projects that explore new technologies and concepts, pushing my programming skills further. 
+```markdown
+# 🚀 **Hey, I'm Yangxir!** 👋  
+<img align="right" src="https://komarev.com/ghpvc/?username=yangxir&label=Profile+Views&color=0e75b6">
 
-💻 **I specialize in**:
-- **Wireless Network Security**: RADIUS, EAP-TLS, Proxy Authentication
-- **Networking & System Programming**: TCP/IP, Socket Programming
-- **Programming**: Python, C++, Java, SQL
+## 🌐 **Wireless Network Enthusiast | Security Researcher | Developer**  
+![Security](https://img.shields.io/badge/Specialization-Network_Security-228B22)
+![EAP-TLS](https://img.shields.io/badge/Certified-EAP--TLS_Expert-4B0082)
 
-📚 In my free time, I love reading, traveling, and hacking on cool tech ideas.  
-
-📌 **Not a fan of Android!**
+**I build secure bridges between networks and users**  
+`RADIUS` `FreeRADIUS` `WPA2/3-Enterprise` `X.509` `PKI`
 
 ---
 
-🔬 **Current Research & Projects**
----
-I'm currently working on **cross-border WiFi authentication optimization** using **EAP-TLS**. If you're interested in secure authentication protocols, let's connect! 
+### 🔥 **Core Expertise**
+<p align="center">
+  <img src="https://img.shields.io/badge/-RADIUS_Protocol-009688?logo=cisco" hspace="5">
+  <img src="https://img.shields.io/badge/-EAP--TLS_Optimization-8A2BE2?logo=wireshark" hspace="5">
+  <img src="https://img.shields.io/badge/-Cross_Border_WiFi-FF6F00?logo=wifi" hspace="5">
+</p>
 
-### Featured Projects:
-
-📌 **[Flask Communication](https://github.com/yangxir/flask-communication)**
-- A Flask-based communication application developed for my thesis project.
-- Implements secure communication with user authentication and session management.
-
-📌 **[YXR's Blog](https://yangxir.github.io/)**
-- My personal blog where I share insights on **WiFi authentication, RADIUS, EAP-TLS, and more**.
-- Covers **server configuration, certificate management, security optimization, and debugging tools**.
-
-More projects coming soon... 🚀
-
----
-
-📌 **Tech Stack**
----
-🖥️ **Programming Languages**: Python, C++, Java, SQL  
-⚙️ **Frameworks**: Flask, Spring  
-🗄️ **Databases**: MySQL, Oracle  
+```python
+# Current Focus
+def optimize_authentication():
+    implement("EAP-TLS handshake acceleration")
+    research("Multi-layer caching strategies")
+    publish("Cross-border authentication framework")
+```
 
 ---
 
-🤝 **Let's Collaborate!**
----
-💡 I'm always open to discussions on **wireless network security**, and **backend development**. If you're working on something exciting, hit me up!  
+## 🛠️ **Technical Arsenal**
 
-📫 **Email**: yangxirui9@gmail.com
+### 🔧 **Development Stack**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-03599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+
+### 📡 **Networking Toolkit**
+![TCP/IP](https://img.shields.io/badge/-TCP%2fIP-FF6600?logo=icloud)
+![Socket](https://img.shields.io/badge/-Socket_Programming-9B30FF)
+![Wireshark](https://img.shields.io/badge/-Packet_Analysis-1679C0?logo=wireshark)
+
+### 🗄️ **Data Management**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+
+---
+
+## 🚀 **Project Showcase**
+
+### 💬 [Flask Communication System](https://github.com/yangxir/flask-communication)
+![GitHub Stars](https://img.shields.io/github/stars/yangxir/flask-communication?style=flat)
+```diff
++ Real-time session management
++ TLS 1.3 encryption
++ JWT-based authentication
+```
+
+### 📝 [YXR's Tech Blog](https://yangxir.github.io/)
+![Latest Post](https://img.shields.io/badge/Latest_Post-WiFi6E_Authentication-blueviolet)
+```diff
++ RADIUS协议深度解析
++ EAP-TLS调试指南
++ 证书生命周期管理
+```
+
+---
+
+## 📬 **Collaboration Channel**
+<p align="center">
+  <a href="mailto:yangxirui9@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Me-D14836?logo=gmail&logoColor=white" hspace="10">
+  </a>
+  <a href="https://yangxir.github.io/">
+    <img src="https://img.shields.io/badge/-Visit_Blog-FF7139?logo=hexo" hspace="10">
+  </a>
+</p>
+
+```diff
+- Not an Android Fan! ❌🤖
++ Let's build secure networks! 🔐🌍
+```
+
+<sub>🚀 Pushing the boundaries of wireless authentication since 2023</sub>
+```
